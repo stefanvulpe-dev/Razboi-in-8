@@ -5,4 +5,4 @@ This game is a University project made for "Introduction to programming" class. 
 2. Run these 2 commands: <br/>
 a) g++ -o main.exe main.cpp includes/*.cpp -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 -lwinmm <br/>
 b) .\main.exe <br/>
-#### P.S: You need to have the C "graphics.h" library installed  to avoid any errors. Enjoy!
+#### P.S: You need to have the C "graphics.h" library installed and also MinGW compiler to avoid any errors. Enjoy!
