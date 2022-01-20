@@ -1,5 +1,5 @@
 # Razboi-in-8
-This game is a University project made for "Introduction to programming" class. For more details, I made a short video wich demonstrates the game functionalities, you can find it here: https://youtu.be/yrvomcFm4ag. 
+This game is a University project made for "Introduction to programming" class. For more details, I made a short video wich demonstrates the game functionalities, that can be found here: https://youtu.be/yrvomcFm4ag. 
 ### Running instructions
 1. Open a terminal in the location of the folder on your machine
 2. Run these 2 commands: <br/>
